@@ -2,9 +2,7 @@
 School project using Puppeteer and Exceljs.
 
 ## Requirements before running
-### 1. npm init -y
-### 2. npm i puppeteer
-### 3. npm i exceljs
+### 1. npm install
 
 ## Instructions
 ### 1. Add Deku Deals Public Wishlist URL in code
