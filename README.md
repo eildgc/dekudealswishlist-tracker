@@ -1,4 +1,4 @@
-# Deku Dealks Public Wishlist consult and register prices
+# Deku Deals Public Wishlist consult and register prices
 School project using Puppeteer and Exceljs.
 
 ## Requirements before running
