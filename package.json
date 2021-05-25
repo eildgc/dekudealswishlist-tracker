@@ -1,0 +1,24 @@
+{
+  "name": "amznwishlist-tracker",
+  "version": "1.0.0",
+  "description": "School project: Amazon Wishlist tracker using Puppeteer.",
+  "main": "price.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eildgc/amznwishlist-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eildgc/amznwishlist-tracker/issues"
+  },
+  "homepage": "https://github.com/eildgc/amznwishlist-tracker#readme",
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "puppeteer": "^9.1.1"
+  }
+}
